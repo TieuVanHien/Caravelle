@@ -1,8 +1,6 @@
 # Caravelle <br></br>
 Restaurant and Louge Services<br></br>
-###Waiting for backend developer deploy backend server<br></br>
-<br></br>
-
+-> Waiting for backend developer deploy backend server<br></br>
 
 Available Scripts
 In the project directory, you can run:
